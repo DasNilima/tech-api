@@ -1,4 +1,5 @@
-[[redirects]] 
-  to=”/.netlify/functions/api:splat” 
-  from=”/*” 
-  status=200
+
+[[redirects]]
+    to="/.netlify/functions/api:splat"
+    from="/*"
+    status=200 
