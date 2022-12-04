@@ -7,8 +7,7 @@
   "description": "Blog Application",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev_start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "Nilima Das",
   "license": "ISC",
